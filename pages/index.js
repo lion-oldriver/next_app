@@ -30,7 +30,7 @@ export default function Home() {
           <input type="number" className='form-control form-control-sm mb-2'
             onChange={onChange} />
           <select onChange={onSelect} className='form-control form-control-sm'>
-            <option value="name">Name</option>
+             <option value="name">Name</option>
             <option value="mail">Mail</option>
             <option value="age">Age</option>
           </select>
